@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Kelvin Rimui
-- 👀 I’m interested in Design 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any frontend project
-- 📫 How to reach me: whatsaap {+254 722 288 446}  email {rimuikelvin4@gmail.com}.
 
 
+![Kelvin Rimui](https://github.com/user-attachments/assets/bab311ec-ba57-45d5-a320-cde8aba7a0fa)
