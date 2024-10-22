@@ -2,7 +2,7 @@
 
 👀 I’m a frontend dev
 
-🌱 I’m currently learning Sveltekit
+🌱 I’m currently learning sanity & next js
 
 💞️ I’m looking to collaborate on large projects
 
